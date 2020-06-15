@@ -1,4 +1,4 @@
-# Welcome to XuChi Page
+# Welcome to XuChi Page 欢迎来到徐驰的主页！
 
 ## Brief Introduction
 ### I am XuChi, now in Sorthern University of Science and Technology(SUSTech) in ShenZhen, China. <br>
